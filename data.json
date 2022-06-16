@@ -1,0 +1,15 @@
+{
+    "height": "172",
+    "mass": "77",
+    "hair_color": "blond",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "19BBY",
+    "gender": "male",
+    "created": "2022-06-15T22:54:39.593Z",
+    "edited": "2022-06-15T22:54:39.593Z",
+    "name": "Luke Skywalker",
+    "homeworld": "https://www.swapi.tech/api/planets/1",
+    "url": "https://www.swapi.tech/api/people/1",
+    "search_date": "2022-06-16 13:05:50.669946"
+}
