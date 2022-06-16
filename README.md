@@ -18,8 +18,8 @@ terminal application capable of managing different tasks using command line argu
  - character name
 
 ## options:
-- -w, --world for home world informations
-- -c, --clean for cleaning the cache (no keyword needed for this method)
+- -w or --world for home world informations
+- -c or --clean for cleaning the cache (no keyword needed for this method)
 
 ## usage:
 python main.py [command] [keyword] [option]
