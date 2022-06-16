@@ -10,6 +10,9 @@ terminal application capable of managing different tasks using command line argu
 - json managment to store and recall information of previous searches in order to avoid unnecessary requests.
 - clean cache method
 
+## usage:
+python main.py [command] [keyword] [option]
+
 ## commands:
 - search
 - cache
@@ -20,6 +23,3 @@ terminal application capable of managing different tasks using command line argu
 ## options:
 - -w / --world for home world informations
 - -c / --clean for cleaning the cache (no keyword needed for this method)
-
-## usage:
-python main.py [command] [keyword] [option]
